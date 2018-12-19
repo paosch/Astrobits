@@ -7,7 +7,7 @@ A static website created as the final project for CodeFirstGirls/BAML frontend c
 * HTML, CSS, Javascript
 * Bootstrap, JQuery
 
-## How to see the website ##
+## How to use the website ##
 If you are using Chrome, for the first page's sound to play you need to go to *chrome://flags/#autoplay-policy* and change the autoplay policy to 'No user gesture is required'.
 
 Then visit [https://paosch.github.io/Astrobits/](https://paosch.github.io/Astrobits/) or do the following:
@@ -18,7 +18,9 @@ Then visit [https://paosch.github.io/Astrobits/](https://paosch.github.io/Astrob
 4. Paste the path in the browser's address bar
 <br><br>
 
-
+## Screenshot showing the site's style ##
+<img width="390" alt="screenshot 2018-12-19 at 14 40 28" src="https://user-images.githubusercontent.com/33669463/50226907-5e192b00-039c-11e9-9cb6-447b79c35d5a.png">
+<br><br>
 ### Work in progress ###
 
 * As soon as I have more time to work on this project, I will fix the flickering card (Uranus) on page 3, I will work more on making the pages responsive and I will make the images on page 3 reflect the planets' proportional size to each other.
