@@ -5,7 +5,7 @@ A static website created as the final project for CodeFirstGirls/BAML frontend c
 
 ## Languages and libraries used ##
 * HTML, CSS, Javascript
-* Bootstrap, JQuery
+* JQuery
 
 ## How to use the website ##
 If you are using Chrome, for the first page's sound to play you need to go to *chrome://flags/#autoplay-policy* and change the autoplay policy to 'No user gesture is required'.
